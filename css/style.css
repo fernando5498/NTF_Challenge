@@ -10,6 +10,18 @@
     font-weight: 300;
 }
 
+@font-face {
+    font-family: outfit;
+    src: url("../fonts/Outfit-VariableFont_wght.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: outfit;
+    src: url("../fonts/Outfit-VariableFont_wght.ttf");
+    font-weight: 600;
+}
+
 :root {
     --bg-color: #0d1a2d;
     --color-cost: #2beae5;
@@ -97,6 +109,7 @@ body {
 
 .card__title h3 {
     color: var(--title-color);
+    font-weight: bold;
 }
 
 .card__title h3:hover,
