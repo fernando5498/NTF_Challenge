@@ -1,0 +1,17 @@
+@font-face {
+    font-family: outfit;
+    src: url("Outfit-VariableFont_wght.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: outfit;
+    src: url("Outfit-VariableFont_wght.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: outfit;
+    src: url("Outfit-VariableFont_wght.ttf");
+    font-weight: 600;
+}
